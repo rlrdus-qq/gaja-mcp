@@ -1,0 +1,14 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "gaja-mcp",
+  "description": "Real-world measured visit bigdata and travel course recommendation MCP server for South Korea",
+  "maintainers": [
+    "rlrdus-qq"
+  ],
+  "remotes": [
+    {
+      "url": "https://gaja.mocean.kr/mcp",
+      "type": "streamable-http"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+startCommand:
+  type: "http"
+  url: "https://gaja.mocean.kr/mcp"
+configSchema:
+  type: object
+  properties:
+    endpointUrl:
+      type: string
+      default: "https://gaja.mocean.kr/mcp"
+      description: "GAJA Travel Streamable-HTTP MCP Endpoint URL"
