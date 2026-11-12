@@ -1,8 +1,8 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.rlrdus-qq/gaja-mcp",
   "title": "GAJA (가자) - Korea Travel & Measured Visits MCP",
-  "description": "Real-world measured visit bigdata and verified travel course recommendation MCP server for 250+ districts across South Korea.",
+  "description": "Real-world measured visit big data and travel course recommendation MCP for South Korea.",
   "version": "0.5.0",
   "websiteUrl": "https://gaja.mocean.kr",
   "repository": {
